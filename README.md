@@ -6,3 +6,5 @@ It is very simple to use since it has only 3 functions:
 1) Encrypt - encrypts the plain text with a key
 2) Decrypt - decrypts the cipher text using the same key
 3) MAC - it adds or verifies the MAC TAG of a message
+
+key_gen.cpp creates a key for the 256 AES encryption
